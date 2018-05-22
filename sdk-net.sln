@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDK", "sdk-net\SDK.csproj", "{2294A940-4306-46FE-B71C-894315FE1940}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDKTest", "UnitTest\SDKTest.csproj", "{8A9D9E7B-020E-4EA7-B19A-D02BF3A709DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2294A940-4306-46FE-B71C-894315FE1940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2294A940-4306-46FE-B71C-894315FE1940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2294A940-4306-46FE-B71C-894315FE1940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2294A940-4306-46FE-B71C-894315FE1940}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A9D9E7B-020E-4EA7-B19A-D02BF3A709DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A9D9E7B-020E-4EA7-B19A-D02BF3A709DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A9D9E7B-020E-4EA7-B19A-D02BF3A709DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A9D9E7B-020E-4EA7-B19A-D02BF3A709DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
